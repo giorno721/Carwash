@@ -1,0 +1,50 @@
+[
+  {
+    "start_time": "03:23 PM",
+    "end_time": "03:53 PM",
+    "workers": [
+      {
+        "first_name": "\u041f\u0435\u0442\u0440\u043e",
+        "last_name": "\u0429\u0443\u0440"
+      }
+    ],
+    "services": [
+      {
+        "name": "\u041a\u0443\u0437\u043e\u0432 \u0442\u0430 \u0421\u0430\u043b\u043e\u043d",
+        "price": "350"
+      }
+    ]
+  },
+  {
+    "start_time": "03:23 PM",
+    "end_time": "03:53 PM",
+    "workers": [
+      {
+        "first_name": "\u0410\u043d\u0434\u0440\u0456\u0439",
+        "last_name": "\u041c\u0430\u0446\u0435\u0432\u043a\u043e"
+      }
+    ],
+    "services": [
+      {
+        "name": "\u041a\u0443\u0437\u043e\u0432",
+        "price": "250"
+      }
+    ]
+  },
+  {
+    "start_time": "03:24 PM",
+    "end_time": "04:34 PM",
+    "workers": [
+      {
+        "first_name": "\u041e\u043b\u0435\u0433",
+        "last_name": "\u041c\u0430\u0437\u0435\u043f\u0430"
+      }
+    ],
+    "services": [
+      {
+        "name": "\u041a\u0443\u0437\u043e\u0432",
+        "price": "250"
+      }
+    ]
+  }
+]
